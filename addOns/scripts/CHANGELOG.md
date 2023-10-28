@@ -4,7 +4,11 @@ All notable changes to this add-on will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## Unreleased
-
+### Added
+- Allow setting the tab size and whether to use tabs or spaces for indentation in the console.
+  The old defaults were to use the tab character with a tab size of 5.
+  The new defaults are to use spaces with a tab size of 4.
+- A gear button to the console toolbar to open the Script Console options screen.
 
 ## [42] - 2023-10-12
 ### Changed
